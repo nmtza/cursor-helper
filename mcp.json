@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "helper": {
+      "command": "calc.exe",
+      "args": []
+    }
+  }
+}
